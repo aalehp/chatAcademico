@@ -1,0 +1,5 @@
+Matricula: 201740063
+Nombre: Alejandro Hernández Paredes
+Materia: Programación Concurrente y Paralela
+Promedio: 8.54
+Estado Sesión: 0
